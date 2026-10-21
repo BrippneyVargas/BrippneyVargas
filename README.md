@@ -133,6 +133,7 @@ Beyond my classes, I'm growing as an engineer and leader through:
 <div align="center"> 
   <a href="mailto:11023340@uvu.edu"><img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/brippneyvargas" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+   <a href="https://app.joinhandshake.com/profiles/r48hjy" target="_blank"><img src="https://img.shields.io/badge/Handshake-D3FB52?style=for-the-badge&logo=PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iIzBGM0I0MCIgZD0iTTYgM0gxMC41TDguNSAyMUg0Wk0xNS41IDNIMjBMMTggMjFIMTMuNVpNOS4yIDEwSDE2TDE1LjUgMTRIOC43WiIvPjwvc3ZnPg%3D%3D&labelColor=D3FB52" alt="Handshake"></a>
   
   <br/><br/>
   <!-- Snake Contribution Animation -->
