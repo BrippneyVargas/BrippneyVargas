@@ -142,9 +142,5 @@ Beyond my classes, I'm growing as an engineer and leader through:
 
 ---
 
-<p align="center"><i>Daily Inspiration</i></p>
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
-</p>
 
